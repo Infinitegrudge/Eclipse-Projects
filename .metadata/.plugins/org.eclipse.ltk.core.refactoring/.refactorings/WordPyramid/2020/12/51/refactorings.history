@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Wordmain.java&apos; to &apos;WordPyramid/src/Pyramid&apos;&#x0D;&#x0A;- Original project: &apos;WordPyramid&apos;&#x0D;&#x0A;- Destination element: &apos;WordPyramid/src/Pyramid&apos;&#x0D;&#x0A;- Original element: &apos;Wordmain.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;Pyramid" element1="/src&lt;{Wordmain.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1608225204157" units="1" version="1.0"/>
+</session>
